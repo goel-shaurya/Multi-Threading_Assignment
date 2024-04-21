@@ -15,7 +15,7 @@
 ## **2. Output**
 1. Table
    <br>
-   <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/eb3a6cdd-19a2-403d-80e1-9e37f12263c6" />
+   <img src = "https://github.com/goel-shaurya/Multi-Threading_Assignment/blob/main/Screenshot%202024-04-21%20123836.png" />
 2. Graph of Execution Time vs Number of Threads
    <br>
    <img src = "https://github.com/goel-shaurya/Multi-Threading_Assignment/blob/main/graph.png" />
