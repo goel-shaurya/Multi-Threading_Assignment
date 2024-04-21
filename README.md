@@ -21,11 +21,5 @@
    <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/c946fda3-36e5-4bd4-a11e-188c2e0123af" />
 4. Graph of CPU Utilization
    <br>
-   <img src = "https://github.com/BhavyaBhalla-27/Assignment-7_Multi-Threading/assets/114859167/0ca663de-a07c-4327-966a-c703a1e55e9a" />
+   <img src = "https://github.com/goel-shaurya/Multi-Threading_Assignment/blob/main/cpu.png" />
 
-## **Details**
-Name - Bhavya Bhalla 
-<br>
-Roll Number - 102103345
-<br>
-Subgroup - 3CO12
